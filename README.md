@@ -21,3 +21,5 @@ Esta aplicación es un proceso por lotes (batch) y **no expone puertos**.
 
 ```bash
 docker build -t jeancarloscb/data-processor:1.0.0 .
+
+![Evidencia Docker Hub](docs/dockerhub-evidence.png)
